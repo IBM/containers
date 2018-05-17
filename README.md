@@ -20,3 +20,11 @@ Many of the exercises in the above list use the same application
 called "guestbook", which can be found [here](https://github.com/IBM/guestbook).
 This is done to show how an application may change over time as it
 leverages all of the features available in Cloud Native environments.
+
+If you find a bug in any of these exercises please feel free to open
+an Issue or Pull Request agaist the specific repository.
+
+If you are interested in contributing to this education effort, please
+open an issue with your idea. For more information about the general
+structure of these repositories please see the [structure](structure.md)
+file.
