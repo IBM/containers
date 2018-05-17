@@ -9,7 +9,7 @@ repo
 │    └─── meetup.pptx
 └─── workshop
      ├─── README.md
-     └─── Lab1
+     └─── lab1
 	      └─── README.md
 ```
 
@@ -26,7 +26,7 @@ Details:
   and know what the main talking points are for each slide.
 * The `workshop` directory contains all of the material needed for either
   a self-directed workshop/lab, or a moderated one. In either case, the
-  README.md file in each of the `Lab` directories should be written such
+  README.md file in each of the `lab` directories should be written such
   that they can be followed by a student reading it on their own.
   In cases where there will be a presentor walking through the exercises
   with them, then they can either use the `meetup.pptx` from the
