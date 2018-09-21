@@ -1,6 +1,6 @@
-# IBM Code : Containers
+# [IBM Developer](https://developer.ibm.com/) : Containers
 
-Below are the list of container-related IBM repositiories.
+Below are the list of container-related IBM repositiories:
 
 * [Docker 101](https://github.com/IBM/intro-to-docker-lab) -
   An introduction to Docker
@@ -11,7 +11,7 @@ Below are the list of container-related IBM repositiories.
 * [Kubernetes 101](https://github.com/IBM/kube101) -
   An overview of Kubernetes as a container orchestrator
 * [Local Kuberenes Development](https://github.com/IBM/localK8Dev) -
-  Deploying Kubernetes Apps locally and in the cloud
+  Deploying Kubernetes applications locally and in the cloud
 * [Service Catalog](https://github.com/IBM/svccat) -
   Leveraging services hosted by third-parties
 
