@@ -10,7 +10,7 @@ Below are the list of container-related IBM repositiories:
   Application networking management made easy
 * [Kubernetes 101](https://github.com/IBM/kube101) -
   An overview of Kubernetes as a container orchestrator
-* [Local Kuberenes Development](https://github.com/IBM/localK8Dev) -
+* [Local Kubernetes Development](https://github.com/IBM/localK8Dev) -
   Deploying Kubernetes applications locally and in the cloud
 * [Service Catalog](https://github.com/IBM/svccat) -
   Leveraging services hosted by third-parties
