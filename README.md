@@ -4,14 +4,14 @@ Below are the list of container-related IBM repositiories:
 
 * [Docker 101](https://github.com/IBM/intro-to-docker-lab) -
   An introduction to Docker
-* [Helm 101](https://github.com/IBM/helm101) -
-  Using Helm to manage the deployment of your application
-* [Istio 101](https://github.com/IBM/istio101) -
-  Application networking management made easy
 * [Kubernetes 101](https://github.com/IBM/kube101) -
   An overview of Kubernetes as a container orchestrator
 * [Local Kubernetes Development](https://github.com/IBM/localK8Dev) -
   Deploying Kubernetes applications locally and in the cloud
+* [Helm 101](https://github.com/IBM/helm101) -
+  Using Helm to manage the deployment of your application
+* [Istio 101](https://github.com/IBM/istio101) -
+  Application networking management made easy
 * [Service Catalog](https://github.com/IBM/svccat) -
   Leveraging services hosted by third-parties
 
