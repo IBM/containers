@@ -10,7 +10,7 @@ Below are the list of container-related IBM repositiories:
   Deploying Kubernetes applications locally and in the cloud
 * [Helm 101](https://github.com/IBM/helm101) -
   Using Helm to manage the deployment of your application
-* [Kubernetes Networking 101](https://github.com/ibm/kubernetes-networking)
+* [Kubernetes Networking 101](https://github.com/ibm/kubernetes-networking) -
   An introduction to networking within a Kubernetes environment
 * [Istio 101](https://github.com/IBM/istio101) -
   Application networking management made easy
