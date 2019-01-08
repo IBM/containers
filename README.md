@@ -16,6 +16,8 @@ Below are the list of container-related IBM repositiories:
   Application networking management made easy
 * [Service Catalog](https://github.com/IBM/svccat) -
   Leveraging services hosted by third-parties
+* [Knative 101](https://github.com/IBM/knative101) -
+  An overview of the Knative application hosting environment for Kubernetes
 
 ### Under Development
 * [Building Docker Images](https://github.com/IBM/buildingimages) -
