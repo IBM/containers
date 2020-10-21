@@ -19,15 +19,14 @@ Below are the list of container-related IBM repositiories:
 * [Knative 101](https://github.com/IBM/knative101) -
   An overview of the Knative application hosting environment for Kubernetes
 
-### Under Development
-* [Building Docker Images](https://github.com/IBM/buildingimages) -
-  Developing, and sharing, your own images
 
+## Guestbook
 
 Many of the exercises in the above list use the same application
 called "guestbook", which can be found [here](https://github.com/IBM/guestbook).
-This is done to show how an application may change over time as it
-leverages all of the features available in Cloud Native environments.
+The Guestbook application may be used to demonstrate many of the features available in Cloud Native environments.
+
+## Contribute
 
 If you find a bug in any of these exercises please feel free to open
 an Issue or Pull Request agaist the specific repository.
